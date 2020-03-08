@@ -1,0 +1,107 @@
+@font-face {
+    font-family: myFont;
+    src: url("Fonts/glyphicons-halflings-regular .eot")
+    }
+    @font-face {
+    font-family: myFont2;
+    src: url("Fonts/glyphicons-halflings-regular.woff2")
+    }
+    @font-face {
+    font-family: myFont3;
+    src: url("Fonts/glyphicons-halflings-regular.woff")
+    }
+
+    body{
+      margin-top: 0;
+    }
+    .nav-link{
+      color: black;
+    }
+    .nav-link:hover{
+      color: black;
+    }
+    .red{
+      color: red
+      !important ;
+      font-weight: bold;
+    }
+    #bdy{
+      text-align:center;
+      margin-top: 60px;
+      padding-bottom: 50px;
+      
+    }
+    h1{
+      font-family: myFont;
+      font-weight: bolder;
+    }
+    h4{
+      text-decoration: none;
+      font-weight: normal;
+      font-family: myFont;
+
+
+    }
+    .grey{
+      color: grey;
+      text-align: center;
+    }
+    .cont{
+      
+      width: 1000px;
+    }
+    #auto{
+      padding: 0;
+      margin: 0;
+    }
+    .wid{
+      width: 100px;
+     
+    }
+    .card{
+      float: left;
+      margin-top: 40px;
+      background-color:#fbfbfb;
+    }
+    .top{
+      margin-top: 100px;
+    }
+    .wid2{
+      width: 70px;
+      height: 70px;
+      margin-top: 10px;
+    }
+    #feat{
+      text-align: center;
+    }
+    h5{
+      text-align: left !important;
+      font-family: myFont2;
+      font-weight: bold;
+
+
+    }
+    .bold{
+      font-weight: bold;
+    }
+    p{
+      text-align: left !important;
+
+    }
+    span{
+      font-family: myFont1;
+      font-weight: lighter;
+      font-size: small;
+      
+
+    }
+    .side:hover{
+        
+        background-color: white;
+        color: #06a8f1;
+    }
+    .side:active{
+        
+      background-color: white;
+      color: #06a8f1;
+  }
